@@ -1,0 +1,1 @@
+The KBC Quiz App is a Python-based project where users can play a quiz themed after the famous TV show KBC (Kaun Banega Crorepati). To run the application, download the entire project and execute the project.py file. I used VSCode for developing this project, but it can be opened in any IDE.
